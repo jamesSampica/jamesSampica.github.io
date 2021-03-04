@@ -1,3 +1,3 @@
-[index](./index.md)
+[home](./index.md) about
 
 # About Me

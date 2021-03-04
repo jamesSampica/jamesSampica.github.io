@@ -1,4 +1,4 @@
-[about](./about.md)
+home [about](./about.md)
 
 # Hello World
 
