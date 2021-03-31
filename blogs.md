@@ -1,4 +1,4 @@
-[home](./home) | blogs
+[home](./) | blogs
 
 # 2021
 
