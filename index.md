@@ -1,6 +1,7 @@
 home | [about](./about.md)
 
 # Hello World
+## 2021/3/1
 
 I've wanted to start a blog for awhile now but with two young children having free time is not an easy task.
 
@@ -14,4 +15,4 @@ So jumping topics without any transition at all, Github pages are pretty nice fo
 
 It doesn't have everything and I thought about doing something a little more complex. Maybe buy a domain, set up a hosted site, do some nicer styling and navigation. But then I decided I want this to be a more relaxing adventure.
 
-And that's okay, casual games their own merits.
+And that's okay, casual games have their own merits.
