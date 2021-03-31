@@ -2,4 +2,4 @@
 
 # 2021
 
-[2021/03/01 - Hello World ](./blogs/helloWorld)
+[2021/03/01 - Hello World ](./blogs/2021/helloWorld)
