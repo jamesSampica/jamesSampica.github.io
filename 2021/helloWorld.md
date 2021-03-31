@@ -1,4 +1,4 @@
-[home](./index) | [blogs](./blogs)
+[home](../index) | [blogs](../blogs)
 
 # Hello World
 ## 2021/03/01
