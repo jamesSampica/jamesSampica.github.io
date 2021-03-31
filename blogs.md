@@ -1,4 +1,4 @@
-[home](./) | blogs
+[home](./index) | blogs
 
 # 2021
 
