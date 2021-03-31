@@ -1,7 +1,7 @@
 home | [about](./about.md)
 
 # Hello World
-## 2021/3/1
+## 2021/03/01
 
 I've wanted to start a blog for awhile now but with two young children having free time is not an easy task.
 
