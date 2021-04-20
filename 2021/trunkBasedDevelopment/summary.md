@@ -23,4 +23,4 @@ This strategy _will_ work for almost every organization, small to large.
 
 Chances are you work with branches every day so by simplifying your branching strategy you will see immediate results.
 
-For more information visit https://trunkbaseddevelopment.com/ and start simplifying today.
+For more information visit [https://trunkbaseddevelopment.com/](https://trunkbaseddevelopment.com/) and start simplifying today.
