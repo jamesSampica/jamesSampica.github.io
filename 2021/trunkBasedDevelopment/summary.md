@@ -17,7 +17,7 @@ Thankfully, there is a _Lean_ solution. Most of your branches in your workflow a
 
 The model above is all you need. That's it. Trunk Based Development is the _Lean_ branching strategy.
 
-Code is integrated frequently. It doesn't need to ride branches up or down or be integrated multiple times. Depending on your workflow even Release branches are optional by using tags 
+Code is integrated frequently. It doesn't need to ride branches up or down or be integrated multiple times. Depending on your workflow and scale even Release branches or branches off main are optional, simplifying this further.
 
 This strategy _will_ work for almost every organization, small to large.
 
