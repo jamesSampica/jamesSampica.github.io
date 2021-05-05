@@ -21,7 +21,7 @@ This strategy has benefits to both the product owner and developers. The sprint 
 
 Most importantly, however, this gives the greatest value to the software because the team can _respond to change over following a (sprint) plan_
 
-I'm going to throw the word _Kanban_ out there because if you are familiar with a Kanban strategy you have recognized the source of this strategy.
+I'm going to throw the word _Kanban_ out there because if you are familiar with Kanban strategies you have already recognized the source of this.
 
 Lastly, if you're a visual learner my crappy ms paint depiction of both strategies is depicted below.
 
