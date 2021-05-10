@@ -9,3 +9,5 @@
 [2021/04/20 - Trunk Based Development is Lean ](./2021/trunkBasedDevelopment/summary)
 
 [2021/05/04 - Small Goals and Options Thinking](./2021/optionsgoals/summary)
+
+[2021/05/09 - Three software laws every developer should know](./2021/threelaws/summary)
