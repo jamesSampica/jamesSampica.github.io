@@ -10,4 +10,4 @@
 
 [2021/05/04 - Small Goals and Options Thinking](./2021/optionsgoals/summary)
 
-2021/05/10 - Three software laws every developer should know (WIP)
+[2021/05/10 - Three software laws every developer should know](./2021/threelaws/summary)
