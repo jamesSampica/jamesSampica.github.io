@@ -1,4 +1,4 @@
-[home](../index) | [blogs](../blogs)
+[home](.../index) | [blogs](../blogs)
 
 # Letting the team decide (or not)
 ## 2021/06/09
@@ -22,3 +22,4 @@ I think a lot of managers have run into these problems and the delighted thinker
 But unfortunately to old-schoolers the answer isn't imposed hierarchy. 
 
 The solution is simple(ish). Hire people who are motivated.
+

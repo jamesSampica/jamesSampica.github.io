@@ -1,4 +1,4 @@
-[home](../index) | [blogs](../blogs)
+[home](.../index) | [blogs](../blogs)
 
 # Small Goals and Options Thinking
 ## 2021/05/04
