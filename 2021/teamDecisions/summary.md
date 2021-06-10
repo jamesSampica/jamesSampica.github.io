@@ -1,4 +1,4 @@
-[home](.../index) | [blogs](../blogs)
+[home](../../index) | [blogs](../../blogs)
 
 # Letting the team decide (or not)
 ## 2021/06/09

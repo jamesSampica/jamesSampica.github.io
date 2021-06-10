@@ -1,4 +1,4 @@
-[home](.../index) | [blogs](../blogs)
+[home](../../index) | [blogs](../../blogs)
 
 # Trunk Based Development is Lean
 ## 2021/04/20

@@ -1,4 +1,4 @@
-[home](.../index) | [blogs](../blogs)
+[home](../../index) | [blogs](../../blogs)
 
 # Three software laws every Agile team should know
 ## 2021/05/09
