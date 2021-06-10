@@ -11,3 +11,5 @@
 [2021/05/04 - Small Goals and Options Thinking](./2021/optionsgoals/summary)
 
 [2021/05/10 - Three software laws every developer should know](./2021/threeLaws/summary)
+
+[2021/06/09 - Letting the team decide (or not)](./2021/teamDecisions/summary)
