@@ -68,7 +68,7 @@ We follow these principles:
 3. Deliver working software frequently~~, from a couple of weeks to a couple of months, with a preference to the shorter timescale.~~ and on short timescales to harness the power of learning through feedback<sup>2</sup>
 4. Business people and developers must collaborate together frequently ~~throughout the project~~.<sup>3</sup>
 5. Build ~~projects~~ products around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-6. The most efficient and effective method of ~conveying information to and within a development team~ collaboration is ~face-to-face~ synchronous conversation.<sup>5</sup>
+6. The most efficient and effective method of ~~conveying information to and within a development team~~ collaboration is ~~face-to-face~~ synchronous conversation.<sup>5</sup>
 7. Working software is the primary measure of progress.
 8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 9. Continuous attention to technical excellence and good design enhances agility.
