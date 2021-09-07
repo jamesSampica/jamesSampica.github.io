@@ -43,7 +43,7 @@ We follow these principles:
 11. The best architectures, requirements, and designs emerge from self-organizing teams.
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. 
 
-## Agile 2020:
+## Agile 2021:
 
 ### Values
 
