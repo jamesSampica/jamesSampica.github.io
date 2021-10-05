@@ -2,9 +2,7 @@ home | [blogs](./blogs)
 
 # About Me
 
-I solve problems for Comoto.
-
-Most of these problems are software problems, though I love a challenge in areas I'm not an expert in.
+Professional problem solver and dissolver. Currently for Comoto.
 
 [Check out my blogs](./blogs)
 
