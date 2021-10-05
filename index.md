@@ -2,7 +2,7 @@ home | [blogs](./blogs)
 
 # About Me
 
-Professional problem solver and dissolver. Currently for Comoto.
+Professional learner and problem dissolver. Currently for Comoto.
 
 [Check out my blogs](./blogs)
 
