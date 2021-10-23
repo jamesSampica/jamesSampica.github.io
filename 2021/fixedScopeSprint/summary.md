@@ -7,7 +7,7 @@ Scrum is popular.
 
 But so is the accidental struggle so many Scrum teams are having. Anti-patterns, misconceptions, misinterpretations, and plain ole ignorance pop up and it feels like a never ending game of whack-a-mole.
 
-The mole that's been annoying me lately is the misinterpretation that sprints in Scrum are to be the timeboxed delivery of the planned (often disfunctionally referred to as _committed_) scope that resulted from sprint planning.
+The mole that's been annoying me lately is the misinterpretation that sprints in Scrum are to be the timeboxed delivery of the planned (often dysfunctionally referred to as _committed_) scope that resulted from sprint planning.
 
 We can throw the book at this one quite easily...
 
