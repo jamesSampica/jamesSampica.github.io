@@ -17,3 +17,5 @@
 [2021/07/08 - The "What if we didn't" game](./2021/whatIfWeDidnt/summary)
 
 [2021/09/03 - Agile 2.0](./2021/agile2/summary)
+
+[2021/10/22 - Fixed Scope Sprints](./2021/fixedScopeSprint/summary)
