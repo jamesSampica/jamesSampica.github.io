@@ -1,4 +1,4 @@
-[home](../index) | [blogs](../blogs)
+[home](../../index) | [blogs](../../blogs)
 
 # Fixed Scope Sprints
 ## 2021/10/22
