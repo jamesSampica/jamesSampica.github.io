@@ -13,11 +13,11 @@ The minimal api is easily scaffolded from the following command...
 
 This generates a few files and one C# file, `Program.cs`, that we might recognize as a very paired back `Startup.cs`.
 
-![scaffolded](scaffolded.png)
+![scaffolded](./scaffolded.png)
 
 Running this using `dotnet run` (or even `dotnet watch` 😉) generates the all-too-familiar "Hello World" on the root url path.
 
-![helloWorld](helloWorld.png)
+![helloWorld](./helloWorld.png)
 
 But maybe we want to have a little api as well as a few nice razor pages? That is easily accomplished by adding only a couple lines of code...
 
@@ -40,7 +40,7 @@ app.Run();
 
 One thing to remember is we don't have to map any additional routes as long as we're following the razor pages convention underneath the `Views` folder (This can be overridden as seen above).
 
-![viewsFolder](viewsFolder.png)
+![viewsFolder](./viewsFolder.png)
 
 We'll make a little Hello World page now with some html.
 
@@ -73,7 +73,7 @@ public class Index : PageModel
 
 Running this then gives us a big nice Hello World that only html could give.
 
-![helloWorldHtml](helloWorldHtml.png)
+![helloWorldHtml](./helloWorldHtml.png)
 
 And that's it. Pretty awesome. I won't use this for the scale of apps I usually work on but I think it's great the ASP.NET teams are looking at removing boilerplate, giving love to beginners, as well as easily supporting small sites. The script-like setup is very easy to conceptually understand and use as a springboard into bigger solutions.
 
