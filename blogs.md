@@ -24,4 +24,4 @@
 
 # 2022
 
-[2022/04/07 - Fixing Scrum](./2021/minApi/summary)
+[2022/04/07 - Fixing Scrum](./2022/fixingScrum/summary)
