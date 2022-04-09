@@ -21,3 +21,7 @@
 [2021/10/22 - Fixed Scope Sprints](./2021/fixedScopeSprint/summary)
 
 [2021/11/22 - Razor Pages with .NET 6's Minimal Api](./2021/minApi/summary)
+
+# 2022
+
+[2022/04/07 - Fixing Scrum](./2021/minApi/summary)
