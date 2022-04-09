@@ -2,7 +2,7 @@ home | [blogs](./blogs)
 
 # About Me
 
-Professional learner and problem dissolver; sometimes with code.
+Professional learner. Problem dissolver.
 
 [Check out my blogs](./blogs)
 
