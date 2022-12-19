@@ -25,3 +25,5 @@
 # 2022
 
 [2022/04/07 - Fixing Scrum](./2022/fixingScrum/summary)
+
+[2022/12/18 - A neat XOR trick](./2022/xorTrick/summary)
